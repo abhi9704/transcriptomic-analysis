@@ -16,6 +16,7 @@ r studio : https://rstudio-education.github.io/hopr/starting.html
 
 DESeq2 : https://lashlock.github.io/compbio/R_presentation.html
 
+
 **1) Data Collection**
 For this study, transcriptomic data were obtained from publicly available repositories
 such as the GEO omnibus (GEO), The Cancer Genome Atlas (TCGA) and the Sequence
