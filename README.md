@@ -1,6 +1,15 @@
 **Transcriptomic-analysis**
 Transcriptomic analysis of colon cancer focuses on identifying differentially expressed genes between cancerous and normal tissues. By applying differential gene expression (DGE) methods such as RNA sequencing, researchers can pinpoint genes that are upregulated or downregulated in the tumor, providing insights into the molecular mechanisms of cancer. This information helps in understanding tumor biology, uncovering potential biomarkers for diagnosis, and identifying therapeutic targets for treatment strategies. The DGE pipeline typically involves quality control, read alignment, normalization, statistical analysis, and visualization of the results to interpret gene expression patterns effectively.
 
+**required tools**
+fastqc : https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+fastp : https://github.com/OpenGene/fastp
+hisat2 : http://daehwankimlab.github.io/hisat2/
+samtools : http://www.htslib.org/doc/
+featurecounts : https://rnnh.github.io/bioinfo-notebook/docs/featureCounts.html
+r studio : https://rstudio-education.github.io/hopr/starting.html
+DESeq2 : https://lashlock.github.io/compbio/R_presentation.html
+
 **1) Data Collection**
 For this study, transcriptomic data were obtained from publicly available repositories
 such as the GEO omnibus (GEO), The Cancer Genome Atlas (TCGA) and the Sequence
